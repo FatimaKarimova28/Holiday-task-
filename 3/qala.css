@@ -1,0 +1,19 @@
+.imgclass{
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.5;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.qala{
+    position: absolute;
+    text-align: center;
+}
+.text{
+    position: absolute;
+    text-align: center;
+}
+.buttonclass{
+    position: absolute;
+}

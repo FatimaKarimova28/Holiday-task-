@@ -1,0 +1,86 @@
+.circle {
+    background: white;
+    border: 0.17em solid #274aa9;
+    border-radius: 50%;
+    
+    display: inline-block;
+    height: 4em;
+    width: 4em;
+
+  }
+
+
+  .facebookclass{
+    font-size: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+
+  .twitterclass{
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 15px;
+
+  }
+
+  .circle2 {
+    background: white;
+    border: 0.17em solid #4e8ce9;
+    border-radius: 50%;
+    
+    display: inline-block;
+    height: 4em;
+    width: 4em;
+
+  }
+
+  .circle3 {
+    background: white;
+    border: 0.17em solid #257ae2;
+    border-radius: 50%;
+    
+    display: inline-block;
+    height: 4em;
+    width: 4em;
+
+  }
+
+  .instagramclass{
+    font-size: 50px;
+    padding-left: 10px;
+    padding-top: 8px;
+  }
+
+  .circle4 {
+    background: white;
+    border: 0.17em solid #257ae2;
+    border-radius: 50%;
+    
+    display: inline-block;
+    height: 4em;
+    width: 4em;
+
+  }
+
+  .linkedinclass{
+    font-size: 40px;
+    padding-left: 15px;
+    padding-top: 12px;
+  }
+
+  .circle5 {
+    background: white;
+    border: 0.17em solid #0a6be1;
+    border-radius: 50%;
+    
+    display: inline-block;
+    height: 4em;
+    width: 4em;
+
+  }
+
+  .userclass{
+    font-size: 40px;
+    padding-left: 13px;
+    padding-top: 12px;
+  }
