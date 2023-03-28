@@ -1,19 +1,34 @@
-.imgclass{
-    height: 100vh;
-    width: 100vw;
-    opacity: 0.5;
-    position: relative;
-    padding: 0;
-    margin: 0;
+div{
+    background-image: 
+     url(./qala.jpeg);
+   
+    height: 900px;
+    width: 2000px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
 }
 .qala{
     position: absolute;
     text-align: center;
+    margin-top: 300px;
+    margin-left: 100px;
+    color: orange;
 }
 .text{
     position: absolute;
     text-align: center;
+    margin-top: 400px;
+    margin-left: 100px;
 }
 .buttonclass{
     position: absolute;
+    margin-top: 500px;
+    margin-left: 100px;
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
 }
